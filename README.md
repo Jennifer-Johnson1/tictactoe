@@ -1,2 +1,14 @@
 # tictactoe
-Html/Css Tic Tac Toe project
+Tic Tac Toe project
+
+Technologies:
+HTML
+CSS
+
+Status:
+Complete
+
+Preview:
+
+
+
